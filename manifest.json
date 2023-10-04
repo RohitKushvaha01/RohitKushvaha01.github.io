@@ -1,0 +1,19 @@
+{
+    "name": "InstaSave",
+    "short_name": "InstaSave",
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+
+
+    "icons": [
+        {
+            "src": "logo1.svg",
+            "sizes": "256x256"
+        },
+        {
+            "src": "logo1.svg",
+            "sizes": "512x512"
+        }
+    ]
+}
